@@ -1,5 +1,5 @@
 ﻿# Specscart-Assignment
- Live : <a href="https://specscart-assignment.netlify.app/" target="_blank">Google</a>
+ Live : <a href="https://specscart-assignment.netlify.app/" target="_blank">Demo</a>
 
 ⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 36.85 %
 
